@@ -1,1 +1,1 @@
-# myNewRepo
+I am editing the READMEfile. Adding some more details about the project description.
